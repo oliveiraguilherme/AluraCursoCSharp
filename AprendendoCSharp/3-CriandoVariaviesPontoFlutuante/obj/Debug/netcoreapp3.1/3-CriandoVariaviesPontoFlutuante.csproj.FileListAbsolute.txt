@@ -1,0 +1,10 @@
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.exe
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.deps.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.runtimeconfig.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.runtimeconfig.dev.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\bin\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.AssemblyInfo.cs
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\3-CriandoVariaviesPontoFlutuante\obj\Debug\netcoreapp3.1\3-CriandoVariaviesPontoFlutuante.pdb
