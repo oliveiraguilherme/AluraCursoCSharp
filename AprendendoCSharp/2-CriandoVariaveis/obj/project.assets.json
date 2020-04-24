@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "projectName": "2-CriandoVariaveis",
-      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\guilherme.dasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\2-CriandoVariaveis\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

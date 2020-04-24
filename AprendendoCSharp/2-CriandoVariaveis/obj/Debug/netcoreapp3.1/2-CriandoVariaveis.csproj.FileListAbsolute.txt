@@ -9,3 +9,14 @@ C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\1-PrimeiroProjeto\2-Criand
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfo.cs
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.exe
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.deps.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.csprojAssemblyReference.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\netcoreapp3.1\2-CriandoVariaveis.pdb

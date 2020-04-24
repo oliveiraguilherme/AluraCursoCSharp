@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
       "projectName": "1-PrimeiroProjeto",
-      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
+      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\guilherme.dasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\1-PrimeiroProjeto\\1-PrimeiroProjeto\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\AprendendoCSharp\\1-PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
