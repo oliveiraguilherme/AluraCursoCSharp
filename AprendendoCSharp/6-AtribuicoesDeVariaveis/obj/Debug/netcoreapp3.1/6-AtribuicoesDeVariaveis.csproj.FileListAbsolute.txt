@@ -1,0 +1,11 @@
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.exe
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.deps.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.csprojAssemblyReference.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariaveis.pdb
