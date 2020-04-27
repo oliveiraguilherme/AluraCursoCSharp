@@ -1,0 +1,10 @@
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp3.1\P12-CalculaInvestimentoLongoPrazo.pdb
