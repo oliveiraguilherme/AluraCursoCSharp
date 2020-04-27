@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\ByteBank\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
       "projectName": "01-ByteBank",
-      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\ByteBank\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
       "packagesPath": "C:\\Users\\guilherme.dasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\ByteBank\\ByteBank\\01-ByteBank\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.dasilva\\Desktop\\G\\AluraCursoCSharp\\ByteBank\\01-ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
