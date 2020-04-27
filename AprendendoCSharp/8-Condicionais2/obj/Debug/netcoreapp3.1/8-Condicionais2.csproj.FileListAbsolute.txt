@@ -8,3 +8,4 @@ C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\8-Condici
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.AssemblyInfo.cs
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.dll
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\8-Condicionais2\obj\Debug\netcoreapp3.1\8-Condicionais2.csprojAssemblyReference.cache
