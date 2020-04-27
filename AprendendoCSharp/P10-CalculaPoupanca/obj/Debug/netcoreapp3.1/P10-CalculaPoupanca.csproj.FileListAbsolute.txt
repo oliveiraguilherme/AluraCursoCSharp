@@ -1,0 +1,10 @@
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.exe
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.deps.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\bin\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.dll
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\P10-CalculaPoupanca\obj\Debug\netcoreapp3.1\P10-CalculaPoupanca.pdb

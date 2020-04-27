@@ -8,3 +8,4 @@ C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\9-Escopo\
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\9-Escopo\bin\Debug\netcoreapp3.1\9-Escopo.pdb
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.dll
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\AprendendoCSharp\9-Escopo\obj\Debug\netcoreapp3.1\9-Escopo.csprojAssemblyReference.cache
