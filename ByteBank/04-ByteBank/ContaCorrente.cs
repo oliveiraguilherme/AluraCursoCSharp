@@ -23,4 +23,9 @@ public class ContaCorrente
         }
 
     }
+
+    public void Depositar(double valor)
+    {
+        this.saldo += valor;
+    }
 }
