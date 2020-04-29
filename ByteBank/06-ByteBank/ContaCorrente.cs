@@ -1,13 +1,28 @@
 ﻿
-namespace _05_ByteBank
+namespace _06_ByteBank
 {
     public class ContaCorrente
     {
         public Cliente titular;
         public int agencia;
         public int numero;
-        public double saldo = 100;
+        private double saldo = 100;
 
+        public void DefinirSaldo(double saldo)
+        {
+            if (saldo < 0)
+            {
+                return;
+            }
+            this.saldo = saldo;
+            
+
+        }
+
+        public double ObterSaldo()
+        {
+            return this.saldo;
+        }
 
         public bool Sacar(double valor)
         {
