@@ -8,3 +8,4 @@ C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\ByteBank\07-ByteBank\obj\D
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.AssemblyInfo.cs
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.dll
 C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.pdb
+C:\Users\guilherme.dasilva\Desktop\G\AluraCursoCSharp\ByteBank\07-ByteBank\obj\Debug\netcoreapp3.1\07-ByteBank.csprojAssemblyReference.cache
