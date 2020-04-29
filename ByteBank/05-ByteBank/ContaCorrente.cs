@@ -7,6 +7,7 @@ namespace _05_ByteBank
         public int agencia;
         public int numero;
         public double saldo = 100;
+        public void algo;
 
 
         public bool Sacar(double valor)
