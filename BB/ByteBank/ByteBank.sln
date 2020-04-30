@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBank.csproj", "{8C7DACCE-DFF6-4C3B-8C99-83656BCB2A56}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "ByteBank\ByteBank.csproj", "{8C7DACCE-DFF6-4C3B-8C99-83656BCB2A56}"
->>>>>>> fbdd7bbcf0044eddfe2df429d6b1a52ab99ef143
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
